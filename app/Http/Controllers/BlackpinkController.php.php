@@ -13,7 +13,7 @@ class BlackpinkController.php extends Controller
      */
     public function index()
     {
-        //
+        //aaa
     }
 
     /**
